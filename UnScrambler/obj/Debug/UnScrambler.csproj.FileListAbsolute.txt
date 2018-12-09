@@ -1,0 +1,71 @@
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\ApplicationInsights.config
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\roslyn\csc.exe
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\roslyn\vbc.exe
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\roslyn\VBCSCompiler.exe
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\resortedlist.txt
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\sortedlist.txt
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\words.txt
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\UnScrambler.dll.config
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\UnScrambler.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\UnScrambler.pdb
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\Microsoft.AI.Web.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\Microsoft.ApplicationInsights.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\Microsoft.AI.Web.xml
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\Microsoft.ApplicationInsights.xml
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\obj\Debug\UnScrambler.dll
+c:\Users\Frederick Escobar\Documents\Visual Studio 2015\Projects\UnScrambler\UnScrambler\obj\Debug\UnScrambler.pdb
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\ApplicationInsights.config
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\roslyn\csc.exe
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\roslyn\vbc.exe
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\roslyn\VBCSCompiler.exe
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\resortedlist.txt
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\sortedlist.txt
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\words.txt
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\UnScrambler.dll.config
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\UnScrambler.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\UnScrambler.pdb
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\Microsoft.AI.Web.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\Microsoft.AI.Web.xml
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\obj\Debug\UnScrambler.csprojResolveAssemblyReference.cache
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\obj\Debug\UnScrambler.dll
+C:\Users\Frederick Escobar\Desktop\cmsc142\New folder\unscrambler\UnScrambler\obj\Debug\UnScrambler.pdb

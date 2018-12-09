@@ -1,0 +1,200 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Arvo:700);
+@import url(https://fonts.googleapis.com/css?family=Seaweed+Script);
+
+body {
+  background-image: url("game-background-p7-4.jpg");
+  background-attachment: fixed;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  color:$white;
+  height:100%;
+  text-align:center;
+  font-size:18px;
+  margin: 30px;
+}
+
+input{
+  text-align: center;
+}
+
+.optButton{
+  font-size:13pt;
+  background-color: rgba(58, 103, 171, 0.5);
+  border-color: rgba(58, 103, 171, 0.5);
+  color: white;
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button {
+    font-size: 17px;
+    background-color: #4CAF50;
+    border-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.optButton:focus{
+  background-color: #4CAF50;
+  color: white; 
+}
+
+.optButton:hover{
+  background-color: #4CAF50;
+  color:white;
+}
+
+.wrappper{
+  @include clear;
+  width:100%;
+}
+
+.myText{
+  width: 350px;
+  height: 50px;
+  font-size:20pt;
+  border-color: #2AA15D;
+}
+
+.myText1{
+  width: 225px;
+  height: 30px;
+  font-size:12pt;
+  border-color: #2AA15D;
+}
+
+.myText2{
+    width: 20px;
+    padding: 0;
+}
+
+.myLength{
+  width: 60px;
+  height: 50px;
+  font-size:20pt;
+  border-color: #2AA15D;
+}
+
+.shadow {
+  color: #fff;
+  font-family: Arvo;
+  font-weight: bold;
+  text-shadow:
+    -3px -3px 0 #222,
+    3px -3px 0 #222,
+    -3px 3px 0 #222,
+    3px 3px 0 #222,
+    4px 4px 0 #fff,
+    5px 5px 0 #fff,
+    6px 6px 0 #fff,
+    7px 7px 0 #fff;
+  line-height: 0.8em;
+  letter-spacing: 0.1em;
+  transform: scaleY(0.7);
+  -webkit-transform: scaleY(0.7);
+  -moz-transform: scaleY(0.7);
+  margin:0;
+  text-align: center;
+}
+
+.text1 {
+  font-size: 100px;
+  padding: 50px;
+  border-bottom: dotted;
+  border-top: dotted;
+  margin-left: 100px;
+  margin-right: 100px;
+  background-attachment: fixed;
+}
+
+canvas{
+  color:$white;
+  border: $white dashed 2px;
+  padding:15px;
+}
+
+p{
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	text-transform: uppercase;
+  margin:5px 0;
+}
+
+h1 {
+	font-size: 2.6em;
+}
+
+h2 {
+	font-size: 1.6em;
+}
+
+p{
+  font-size: 1.6em;
+}
+
+#alphabet {
+  @include clear;
+  margin:15px auto;
+  padding:0;
+  max-width:900px;
+}
+
+#my-word li {
+  position: relative;
+  list-style: none;
+  margin: 0;
+  display: inline-block;
+  padding: 0 10px;
+  font-size:1.6em;
+}
+
+button{
+  @include corners (5px);
+  background:$base-color;
+  color:$white;
+  border: solid 1px $white;
+  text-decoration:none;
+  cursor:pointer;
+  font-size:1.2em;
+  padding:18px 10px;
+  width:180px;
+  margin: 10px;
+  outline: none;
+  
+    &:hover{
+      @include transition;
+      background:$white;
+      border: solid 1px $white;
+      color:$base-color;
+    }
+}
+
+@media (max-width: 767px) {
+  #alphabet {
+  padding:0 0 0 15px;
+}
+  }
+
+  @media (max-width: 480px) {
+  #alphabet {
+  padding:0 0 0 25px;
+}
+  }
+
