@@ -24,6 +24,7 @@ namespace UnScrambler
             logList = new List<string>(logFile);
             logFileresorted = File.ReadAllLines(System.Web.Hosting.HostingEnvironment.ApplicationPhysicalPath + "resortedlist.txt");
             logListresortedt = new List<words>();
+
             wordssearched = new List<string>();
             int i = 0;
             foreach (string j in logFileresorted)
@@ -61,6 +62,24 @@ namespace UnScrambler
             logListresortedt = logListresortedt.Where(l => l.word.Length == expectedoutput.Length).ToList();
             while (nopts[start] > 0)
             {
+                if (expectedoutput.Length == myTextletters.Text.Length)
+                {
+                    string word2 = "";
+                    word2 = myTextletters.Text;
+                    if (word2.Length == expectedoutput.Length)
+                    {
+                        
+                        string wordsorted = String.Concat(word2.OrderBy(c => char.ToLower(c)));
+                        if (!wordssearched.Any(w => w == wordsorted))
+                        {
+                            searchAllItem(wordsorted, expectedoutput);
+                            wordssearched.Add(wordsorted);
+                        }
+                    }
+
+                    nopts[start] = 0;
+                    break;
+                }
                 if (nopts[move] > 0)
                 {
                     nopts[++move] = 0;
@@ -73,7 +92,7 @@ namespace UnScrambler
                     {
                         if (word.Length == expectedoutput.Length)
                         {
-                            string wordsorted = String.Concat(word.OrderBy(c => c));
+                            string wordsorted = String.Concat(word.OrderBy(c => char.ToLower(c)));
                             if (!wordssearched.Any(w => w == wordsorted)) {
                                 searchAllItem(wordsorted, expectedoutput);
                                 wordssearched.Add(wordsorted);
